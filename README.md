@@ -1,1 +1,1 @@
-# pythonexercises
+Collection of Python Exercises.
